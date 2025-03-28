@@ -27,11 +27,11 @@ body {
 }
 
 nav {
-  background-color: #232f3e;
+  background-color: #000000;
   padding: 1rem 1rem;
 }
 
-#search_btn {
+#search_btn { 
   background-color: #febd69;
 }
 
